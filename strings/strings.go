@@ -1,3 +1,4 @@
+// A simple "strings" package to demonstrate Go's package
 package strings
 
 func internalFunction() {
