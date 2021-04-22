@@ -1,3 +1,5 @@
+// This is the quotes package
+
 package quotes
 
 import (
