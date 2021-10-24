@@ -1,5 +1,5 @@
 module github.com/weimenglee/stringmod
 
-go 1.15
+go 1.17
 
-require github.com/hackebrot/turtle v0.1.0
+require github.com/hackebrot/turtle v0.2.0
